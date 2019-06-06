@@ -1,6 +1,6 @@
 **burger-builder** is an app created for learning purposes. It uses React and stores data to Firebase. 
 
-[Demo](https://hungry-bose-f5ad9e.netlify.com/)
+[Demo](https://build-a-burger.netlify.com/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
